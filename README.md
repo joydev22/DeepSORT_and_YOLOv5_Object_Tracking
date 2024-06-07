@@ -2,7 +2,7 @@
 This repository contains code for object tracking using the DeepSORT (Deep Simple Online and Realtime Tracking) algorithm in combination with the YOLOv5 (You Only Look Once) object detection model. Here we have calssify three classes like person, traffic light, and car. For major changes, please open an issue first to discuss what you would like to change.
 
 # Dataset
-The dataset has been sourced from [roboflow](https://universe.roboflow.com/rajarshi-ghosh-dastidar/keyboard-and-mouse-ts4yq/dataset/14)
+We have used a custom-recorded video dataset based on Indian road scenarios.
 
 # Software and Hardware Environment
 | IDE (optional)              | Visual Studio Code       |
